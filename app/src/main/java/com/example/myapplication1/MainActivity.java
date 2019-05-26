@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.v("test","test");
-        Log.v("test","test");
+        Log.v("test2","test2");
     }
 }
